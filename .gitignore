@@ -1,0 +1,5 @@
+# iPython checkpoint folder
+.ipynb_checkpoints/
+
+# emacs temp files
+*~
