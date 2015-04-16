@@ -3,3 +3,6 @@
 
 # emacs temp files
 *~
+
+# Data
+data/
